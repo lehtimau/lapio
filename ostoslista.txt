@@ -8,3 +8,5 @@ tupakkaa
 ruokaa
 pastaa
 shampoota
+koiranruoka
+kurkku
